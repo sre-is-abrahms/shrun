@@ -1,4 +1,4 @@
-#!/usr/bin/node
+#!/usr/bin/env node
 
 import { join } from 'path';
 import { promisify } from 'util';
